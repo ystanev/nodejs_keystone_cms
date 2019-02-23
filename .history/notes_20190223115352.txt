@@ -1,0 +1,6 @@
+Have to start MongoDB first before running the project.
+
+1. Open cmd.exe
+2. Run: mongod -dbpath=C:\data
+3. Open another instance of cmd.exe
+4. Run mongo
